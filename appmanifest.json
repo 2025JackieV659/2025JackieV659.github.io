@@ -1,7 +1,7 @@
 {
-	"name": "Starter",
-	"short_name": "Starter",
-	"description": "`",
+	"name": "Final Project",
+	"short_name": "Final Project",
+	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
